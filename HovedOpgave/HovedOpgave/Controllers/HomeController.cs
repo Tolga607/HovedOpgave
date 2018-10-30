@@ -8,14 +8,14 @@ namespace HovedOpgave.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult Forside()
         {
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult OpretStudent()
         {
-            ViewBag.Message = "Your application description page.";
+            
 
             return View();
         }
