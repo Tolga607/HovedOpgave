@@ -15,7 +15,7 @@ namespace HovedOpgave.Controllers
             return View();
         }
 
-      //Hej Jeppe
+      //Hej Jeppe og Tolga
  
         public IActionResult About()
         {
